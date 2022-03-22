@@ -1,4 +1,4 @@
-start_time = input("start time (HH:MM):" )
+start_time = input("start time (HH:MM):")
 start_time_h = int(start_time[0:2])
 start_time_m = int(start_time[3:5])
 
